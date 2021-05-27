@@ -16,7 +16,8 @@ class Kanjaban extends React.Component{
                         
                         
                         <p align="left">Kanjaba es una aplicación hecha en java usando NetBeans y MySql para organizar proyectos personales basado en la metodología kanban enfocado en un solo usuario.</p>
-                        <p align="left">Puedes ver el repositorio dando click <a href="https://github.com/BrandonGrimaldoM/Kanjaban" target="_blank">AQUI.</a></p>
+                        
+                        <p align="left">Puedes ver el repositorio dando click <a href="https://github.com/BrandonGrimaldoM/Kanjaban" target="_blank" rel='noreferrer'>AQUI.</a></p>
                         
                         <div className="space"></div>
                         

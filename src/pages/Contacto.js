@@ -7,7 +7,7 @@ class Contacto extends React.Component{
                   <div className="Contact">
                           <div className="Info-contact">
                           <h1>Contacto</h1>
-                          <h2>Email: micorreo@gmail.com</h2>
+                          <h2>Email: james@devgrimaldo.com</h2>
                           <h2>Cel: +506 62329393</h2>
                           </div>
                   </div>

@@ -15,7 +15,8 @@ class Cinegon extends React.Component{
                         
                         <p align="left">Esta versión de la aplicación creada con C# permite subir películas a una base de datos oracle, 
                                         almacenar sus imágenes de portadas para luego mostrarlos en pantalla.</p>
-                        <p align="left">Puedes ver el repositorio dando click <a href="https://github.com/BrandonGrimaldoM/Cinegon" target="_blank">AQUI.</a></p>
+                                       
+                        <p align="left">Puedes ver el repositorio dando click <a href="https://github.com/BrandonGrimaldoM/Cinegon" target="_blank" rel='noreferrer'>AQUI.</a></p>
                         
                         <div className="space"></div>
                         

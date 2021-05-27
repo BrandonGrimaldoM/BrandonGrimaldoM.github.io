@@ -16,7 +16,8 @@ class Pizzahot extends React.Component{
                         
                         
                         <p align="left">Página Web WordPress en servidor local para pizzería basada en pizza hat con plantilla personalizada.</p>
-                        <p align="left">Puedes ver el repositorio dando click <a href="https://github.com/BrandonGrimaldoM/PIZZAHOTWP" target="_blank">AQUI.</a></p>
+                        
+                        <p align="left">Puedes ver el repositorio dando click <a href="https://github.com/BrandonGrimaldoM/PIZZAHOTWP" target="_blank" rel='noreferrer'>AQUI.</a></p>
                         
                         <div className="space"></div>
                         

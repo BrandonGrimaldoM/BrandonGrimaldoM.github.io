@@ -16,7 +16,8 @@ class BI extends React.Component{
                         
                         
                         <p align="left"></p>
-                        <p align="left">Puedes ver el repositorio dando click <a href="" target="_blank">AQUI.</a></p>
+                        
+                        <p align="left">Puedes ver el repositorio dando click <a href="https://github.com/BrandonGrimaldoM/BIQlikSense" target="_blank" rel='noreferrer'>AQUI.</a></p>
                         
                         <div className="space"></div>
                         

@@ -8,9 +8,9 @@ class Web extends React.Component{
               <div className="Page">
                  <div className="Apps">
                      
-                 <Link to="/GameOverWeb" className="Link Application">
+                 <Link to="/GameOverWeb" className="Link Application image-3">
                  </Link>
-                 <Link to="/PizzaHot" className="Link Application">
+                 <Link to="/PizzaHot" className="Link Application image-4">
                  </Link>
                         
                         

@@ -16,7 +16,8 @@ class Gameoverweb extends React.Component{
                         
                         
                         <p align="left">Esta pagina web a sido creada con Django, MySql y Bootstrap, ambientada al mundo gaming le permite crear usuarios, perfiles y subir posts acerca de sus video juegos favoritos.</p>
-                        <p align="left">Puedes ver el repositorio dando click <a href="https://github.com/BrandonGrimaldoM/gameoverweb" target="_blank">AQUI.</a></p>
+                       
+                        <p align="left">Puedes ver el repositorio dando click <a href="https://github.com/BrandonGrimaldoM/gameoverweb" target="_blank" rel='noreferrer'>AQUI.</a></p>
                         
                         <div className="space"></div>
                         

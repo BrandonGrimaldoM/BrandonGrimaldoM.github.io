@@ -8,7 +8,7 @@ class VideoGames extends React.Component{
               <div className="Page">
                  <div className="Apps">
                      
-                 <Link to="/RunOrDie" className="Link Application">
+                 <Link to="/RunOrDie" className="Link Application image-6">
                  </Link>
                         
                         

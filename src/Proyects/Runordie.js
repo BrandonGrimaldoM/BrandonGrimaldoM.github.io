@@ -16,7 +16,8 @@ class Runordie extends React.Component{
                         
                         
                         <p align="left">Este juego fue creado con Unity y consta en escapar de la aplanadora para no morir, el terreno es procedural por lo que en general ¡no tiene fin! acumulas puntos mientras mas avanzas en la partida.</p>
-                        <p align="left">Puedes ver el repositorio dando click <a href="https://github.com/BrandonGrimaldoM/RunOrDieGame" target="_blank">AQUI.</a></p>
+                        
+                        <p align="left">Puedes ver el repositorio dando click <a href="https://github.com/BrandonGrimaldoM/RunOrDieGame" target="_blank" rel='noreferrer'>AQUI.</a></p>
                         
                         <div className="space"></div>
                         

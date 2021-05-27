@@ -8,13 +8,13 @@ class DataBases extends React.Component{
               <div className="Page">
                  <div className="Apps">
 
-                 <Link to="/BI" className="Link Application">
+                 <Link to="/BI" className="Link Application image-5">
                  </Link>   
-                 <Link to="/DataBaseKanjaban" className="Link Application">
+                 <Link to="/DataBaseKanjaban" className="Link Application image">
                  </Link>
-                 <Link to="/DataBaseCinegon" className="Link Application">
+                 <Link to="/DataBaseCinegon" className="Link Application image-2">
                  </Link>
-                 <Link to="/DataBasePython" className="Link Application">
+                 <Link to="/DataBasePython" className="Link Application image-3">
                  </Link>
                  
                         

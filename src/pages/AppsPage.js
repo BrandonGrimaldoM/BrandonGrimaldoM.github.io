@@ -8,9 +8,9 @@ class AppPage extends React.Component{
               <div className="Page">
                  <div className="Apps">
                      
-                 <Link to="/Kanjaban" className="Link Application">
+                 <Link to="/Kanjaban" className="Link Application image">
                  </Link>
-                 <Link to="/Cinegon" className="Link Application">
+                 <Link to="/Cinegon" className="Link Application image-2">
                  </Link>
                         
                         

@@ -45,7 +45,7 @@ function App(){
          <Route exact path="/BI" component={BI}/>
          <Route exact path="/RunOrDie" component={Runordie}/>
          
-         <Route exact path="" component={PrincipalPage}/>
+         <Route exact path="/" component={PrincipalPage}/>
          <Route component={NotFound}/>
         </Switch>
       </Layout>
