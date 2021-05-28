@@ -364,7 +364,7 @@ header{
 
 }
 
-@media screen and (max-width: 320px),(max-width: 360px){
+@media screen and (max-width: 320px),(max-width: 360px),(max-width: 414px),(max-width: 540px){
    p{
        font-size: 40px;
    }
